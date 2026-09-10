@@ -1,0 +1,6 @@
+{
+  "name": "Tes Sumatif Matematika Kelas V - SDN 3 Loloan Timur",
+  "description": "Aplikasi ujian tes sumatif online berbasis web untuk mata pelajaran Matematika Kelas V SD Negeri 3 Loloan Timur dengan rekap nilai otomatis dan panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
